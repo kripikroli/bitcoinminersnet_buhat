@@ -5,7 +5,7 @@ description: Bitcoin in Venezuela Hides When Crisis Strikes
 published: true
 ---
 
-<p><center><img src="/images/bmrn-venezuela-2.jpg" alt=""/></center></p>
+<p><center><img src="/images/bmrn-venezuela-2.jpg" alt="Bitcoin in Venezuela"/></center></p>
 
 <p>For the past 3 years, there were a <a href="/blog/">lot of demonstrations and rallies</a> over Venezuela country due to economic crisis is getting worse more and more. For the moment also, Bitcoin has been used by most countries to survive.</p>
 
@@ -13,7 +13,7 @@ published: true
 
 <p>The nation's most common Bitcoin exchange service - Surbitcoin was closed and forced to stop their operation on early of February. The stoppage causing the spike of Localbitcoins in Bitcoin trading.</p>
 
-<p><center><img src="/images/bmrn-venezuela-1.jpg" alt=""/></center></p>
+<p><center><img src="/images/bmrn-venezuela-1.jpg" alt="Bitcoin in Venezuela"/></center></p>
 
 <p>The perception is that people should embrace or adopt <a href="/hardware/">digital currency</a> in there because of the fact that they have transactions in the black market to purchase goods even on the midst of hyperflation. </p>
 
@@ -23,7 +23,7 @@ published: true
 
 <p>According to a native named Randy Brito, "People in our country are now just have to meals at most per day with a very few calories in it". There are individuals who are using Bitcoins for goods and medicines but they chose not to because the government is prohibiting them to use it and making them go to jail. </p>
 
-<p><center><img src="/images/bmrn-venezuela-3.jpg" alt=""/></center></p>
+<p><center><img src="/images/bmrn-venezuela-3.jpg" alt="Bitcoin in Venezuela"/></center></p>
 
 <p>That's actually one of the <a href="/bitcoin-miner-antminer-s9/">reason why most of the people are hesitant</a> to learn how to use Bitcoin because the demand is less.</p>
 
@@ -33,7 +33,7 @@ published: true
 
 <p>This is just normal though for business over the world like Europe and United States.</p>
 
-<p><center><img src="/images/bmrn-venezuela-4.jpg" alt=""/></center></p>
+<p><center><img src="/images/bmrn-venezuela-4.jpg" alt="Bitcoin in Venezuela"/></center></p>
 
 <p>There are lot of comments on forums that they are comparing Venezuela to their countries. Some says they need Bitcoin for traveling on the nearest cities, and others says Bitcoin is not prohibited in their country and might put them into jail.</p>
 
