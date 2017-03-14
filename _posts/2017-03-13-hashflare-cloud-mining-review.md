@@ -16,7 +16,7 @@ toc:
 
 <h2 id="history">HashFlare History</h2>
 
-<p><a href="/usb-bitcoin-miner/">HashCoins who offered facilitating for mining contracts</a> on last quarter of 2015 had formally propelled likewise their cloud mining administration called HashFlare last 23rd of April 2015. They offered both altcoins and Bitcoin cloud mining administrations. </p>
+<p><a href="/usb-bitcoin-miner/">HashCoins who offered facilitating for mining contracts</a> on last quarter of 2015 had formally propelled likewise their cloud mining administration called <a href="http://geni.us/hashflare">HashFlare last 23rd of April 2015</a>. They offered both altcoins and Bitcoin cloud mining administrations. </p>
 
 {% include page-toc.html %}
 
@@ -66,4 +66,3 @@ toc:
 
 <p>HashFlare won't not be the best cloud mining organization to trust with and their cost may not be fine contrast with others, they do have a <a href="/pools/">lower support cost and an exceptionally</a> strong reward on referrals which edges them from others. </p>
 
-<p>Feel Free to use my referral link to sign up for <a href="http://geni.us/hashflare">HashFlare’s Cloud Mining Service!</a></p>
