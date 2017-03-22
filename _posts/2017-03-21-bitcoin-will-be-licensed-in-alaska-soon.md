@@ -27,12 +27,12 @@ published: true
 
 <p>The Bill changes the <a href="/what-is-bitcoin-mining-and-how-to-be-a-bitcoin-miner/">money transmission definition</a> particularly the portion where digital currencies were stated. The money transmission is now having a specific definition with variety of activity types in the state such as :<p>
 <ul>
-<li><p>1. Accepting digital currency for transfer,<p></li>
-<li><p>2. Transferring digital currency,<p></li>
+<li><p>1. Accepting digital currency for transfer,</p></li>
+<li><p>2. Transferring digital currency,</p></li>
 <li><p>3. On behalf or others, controlling, securing, maintaining custody or storing virtual currency,<p></li>
-<li><p>4. Selling and buying digital currency or using a third party,<p></li>
-<li><p>5. Performing retail change administrations, including the transformation or trade of fiat cash or other incentive into virtual money,<p></li>
-<li><p>6. Controlling, directing, or issuing virtual money.<p></li>
+<li><p>4. Selling and buying digital currency or using a third party,</p></li>
+<li><p>5. Performing retail change administrations, including the transformation or trade of fiat cash or other incentive into virtual money,</p></li>
+<li><p>6. Controlling, directing, or issuing virtual money.</p></li>
 </ul>
 <h2>Old Attempts</h2>
 
