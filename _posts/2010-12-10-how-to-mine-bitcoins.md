@@ -2,6 +2,7 @@
 layout: post
 title: How To Mine Bitcoins?
 description: How To Mine Bitcoins?
+published: true
 ---
 
 <p><center><img src="/images/how-to-mine-bitcoins.jpg" alt="how to mine bitcoins"/></center></p>
