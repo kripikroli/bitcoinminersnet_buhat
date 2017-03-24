@@ -28,7 +28,7 @@ description: How To Mine Bitcoins?
 
 <p><strong>3. <a href="/bitcoin-in-venezuela-hides-when-crisis-strikes/">Get a Miner</a>.</strong> There are various digging choices for numerous stages despite the fact that OSX clients may end up in somewhat of a pickle. Mineworkers utilize save GPU cycles to control the mining operation, much like administrations like SETI@Home uses save cycles for finding smart life. </p>
 
-<p>Excavators, then again, utilize these cycles to help deal with shared procedures related with bitcoins. Along these lines by doing "work" you are keeping up the system too.</p>
+<p>Miners, then again, utilize these cycles to help deal with shared procedures related with bitcoins. Along these lines by doing "work" you are keeping up the system too.</p>
 
 <p><strong>4. Keep your mind on your cash.</strong> Bitcoins are bewildering in that they are uncontrollably easy to utilize and mine. Theorists, then, would most likely have the capacity to toss several machines at the issue and assemble bitcoins like raindrops, isn't that so? Off-base. </p>
 
