@@ -18,8 +18,6 @@ toc:
 
 <p><a href="/usb-bitcoin-miner/">HashCoins who offered facilitating for mining contracts</a> on last quarter of 2015 had formally propelled likewise their cloud mining administration called <a href="http://geni.us/hashflare">HashFlare last 23rd of April 2015</a>. They offered both altcoins and Bitcoin cloud mining administrations. </p>
 
-{% include page-toc.html %}
-
 <p>HashFlare utilized a non-stock rendition of Apollo excavator for their Bitcoin mining with SHA-256. HashFlare utilizes their Ares excavator for mining with Scrypt. The sum total of what equipment has been given by the parent organization with server farm of 2 Megawatt. Sergei Potapenko was the organizer of HashCoins and it was situated in Talin, Estonia on the year 2013. </p>
 
 <p>Taking a <a href="/how-to-mine-bitcoins/">gander at the information data</a>, HashFlare is on top with 10K clients as of June 30, 2015 and numbering who utilizes their cloud mining administrations that creates hash rate of more than 1 PH/S. </p>

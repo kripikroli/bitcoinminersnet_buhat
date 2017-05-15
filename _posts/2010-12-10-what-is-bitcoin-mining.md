@@ -17,7 +17,7 @@ toc:
 <p><center><img src="/images/bitcoin-mining-2.jpg" alt="bitcoin mining"/></center></p>
 
 <p>There have been times when you <a href="/blog/">wonder where Bitcoin comes</a> from including the process it enters into the circulation. Well basically, Bitcoin comes from being “mined into existence and bitcoin mining contributes to two things: adding transactions to the so called block chain and for the release of a new bitcoin. </p>
-{% include page-toc.html %}
+
 <p>There is a mining process which includes gathering new transactions into blocks as well as attempting to solve a puzzle which is computationally difficult. The first player who can solve the puzzle has the chance to put the next block into the block chain and can take the rewards. </p>
 
 <p>The rewards given can give encouragement to miners in mining and consist of transaction fees (given as payment to the miner in Bitcoin form) and also a freshly released Bitcoin.</p>
