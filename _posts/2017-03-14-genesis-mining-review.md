@@ -5,16 +5,10 @@ description: Genesis Mining Review
 author: Melvin Draupnir
 authorurl: https://www.weusecoins.com/melvin-draupnir/
 published: true
-toc:
-  genesis: Genesis Mining Work
-  pricing: Pricing
-  coins: What Coins Can You Mine
-  profitability: Profitability
-  providers: Cloud Mining Providers
 ---
-
-<p><a href="/http://geni.us/genesismining">In 2013, Genesis Mining</a> was established. Although the precise locations of mining farms are unknown publicly as a safety precaution, presently, it owns mining farms situated around America, Asia and Europe.</p>
  {:toc}
+<p><a href="/http://geni.us/genesismining">In 2013, Genesis Mining</a> was established. Although the precise locations of mining farms are unknown publicly as a safety precaution, presently, it owns mining farms situated around America, Asia and Europe.</p>
+
 <p>Keep in mind that when it comes to transparency, Genesis Mining is at the top of all cloud mining company and definitely not a fraud.</p>
  
 <p>As a <a href="/usb-bitcoin-miner/">cloud mining provider</a>, it is debatably considered the biggest and most well known for Ethereum, Bitcoin and other coins. Additionally, they have signed up with the SEC for a Bitcoin mining fund.</p>
@@ -23,13 +17,13 @@ toc:
  
 <p>Keep in mind that what that these contracts do not have maturity date since these are life time contracts, and until the contract is profitable, there is continuous mining and payout receiving.</p>
  
-<h2 id="genesis">How Does Genesis Mining Work?</h2>
+## How Does Genesis Mining Work?
 
 <p>You don’t necessarily need to go through <a href="/how-to-mine-bitcoins/">complex hardware and software procedures</a> since Genesis Mining generally works as an accessible and authentic way to gain hash power. It is also best in producing mining rigs that are productive and trustworthy enough for people to rent.</p>
  
 <p>All you need to do is sign up your own account, put funds via Paypal, Bitcoin, credit card or wire transfer, select the finest plan for you and then you can start mining. Very easy right?  </p>
  
-<h2 id="pricing">Pricing</h2>
+## Pricing
 
 <p>They are offered in three categories depending on its price and hashrate:</p>
 <ul>
@@ -37,7 +31,7 @@ toc:
 <li><p><strong>PLATINUM</strong> - 2000 GH/s - 340 dollars</p></li>
 <li><p><strong>DIAMOND</strong> - 10,000 GH/s - 2000 dollars</p></li>
 </ul>
-<h2 id="coins">What Coins Can You Mine?</h2>
+## What Coins Can You Mine?
 
 <p>The coins that you can acquire in Genesis mining is primarily dependent on the contract you selected to pay for. The two contracts available as of the sixth month of 2016 are X11 and SHA-256.The coins you can mine specific under them are as follows:</p>
 
@@ -45,7 +39,7 @@ toc:
 
 <p>For contract SHA-256, we also have Bitcoin,Litecoin, Dash just like the former as well as Zetacoin and Darkcoin.</p>
 
-<h2 id="profitability">Profitability</h2>
+## Profitability 
 
 <p><a href="/what-is-bitcoin-mining-and-how-to-be-a-bitcoin-miner/">Genesis Mining contracts</a> are useless if you gain nothing from it especially when it comes to profits. In line with this we can calculate somehow the ability to gain revenue of each contracts discussed previously.</p>
 
@@ -57,7 +51,7 @@ toc:
 
 <p>Both lifetime contracts will have to deal with a small maintenance fee withdrawn as long as it is still profitable.</p>
 
-<h2 id="providers">How is Genesis Mining Different from Other Cloud Mining Providers?</h2>
+## How is Genesis Mining Different from Other Cloud Mining Providers?
 
 <p>Genesis mining is <a href="/bitcoin-in-venezuela-hides-when-crisis-strikes/">just done online</a> so it varies greatly with other cloud mining providers. It given due as the most colossal and high in demand compared to others. Genesis Mining greatly made mining an uncomplicated and satisfying experience.</p>
 
