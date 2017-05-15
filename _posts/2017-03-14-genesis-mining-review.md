@@ -5,6 +5,7 @@ description: Genesis Mining Review
 author: Melvin Draupnir
 authorurl: https://www.weusecoins.com/melvin-draupnir/
 published: true
+markdown: kramdown
 ---
  {:toc}
 <p><a href="/http://geni.us/genesismining">In 2013, Genesis Mining</a> was established. Although the precise locations of mining farms are unknown publicly as a safety precaution, presently, it owns mining farms situated around America, Asia and Europe.</p>
