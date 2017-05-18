@@ -14,6 +14,8 @@ toc:
   conclusion: Conclusion
 ---
 
+{% include page-toc.html %}
+
 <h2 id="history">HashFlare History</h2>
 
 <p><a href="/usb-bitcoin-miner/">HashCoins who offered facilitating for mining contracts</a> on last quarter of 2015 had formally propelled likewise their cloud mining administration called <a href="http://geni.us/hashflare">HashFlare last 23rd of April 2015</a>. They offered both altcoins and Bitcoin cloud mining administrations. </p>

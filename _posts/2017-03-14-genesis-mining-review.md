@@ -13,8 +13,9 @@ toc:
   providers: Cloud Mining Providers
 ---
 
+{% include page-toc.html %}
 <p><a href="/http://geni.us/genesismining">In 2013, Genesis Mining</a> was established. Although the precise locations of mining farms are unknown publicly as a safety precaution, presently, it owns mining farms situated around America, Asia and Europe.</p>
- 
+ {:toc}
 <p>Keep in mind that when it comes to transparency, Genesis Mining is at the top of all cloud mining company and definitely not a fraud.</p>
  
 <p>As a <a href="/usb-bitcoin-miner/">cloud mining provider</a>, it is debatably considered the biggest and most well known for Ethereum, Bitcoin and other coins. Additionally, they have signed up with the SEC for a Bitcoin mining fund.</p>
