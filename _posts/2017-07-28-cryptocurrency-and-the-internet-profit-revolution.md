@@ -43,21 +43,21 @@ published: true
 
 <p>Let us try to review by going through some of the definitions we have learned:</p>
 
-<p>Cryptocurrency:  an electronic currency and also known as digital currency</p>
+<p><strong>Cryptocurrency:</strong>  an electronic currency and also known as digital currency</p>
 
-<p>Fiat money: money back by government or any legal tender, utilized in banking system. </p>
+<p><strong>Fiat money:</strong> money back by government or any legal tender, utilized in banking system. </p>
 
-<p>Bitcoin: the gold standard and the <a href="/bitcoin-will-be-licensed-in-alaska-soon/">first cryptocurrency</a>. </p>
+<p><strong>Bitcoin:</strong> the gold standard and the <a href="/bitcoin-will-be-licensed-in-alaska-soon/">first cryptocurrency</a>. </p>
 
-<p>Altcoin: all the other cryptocurrencies which are formed samely as Bitcoin, although has little variations  with regards to their coding. </p>
+<p><strong>Altcoin:</strong> all the other cryptocurrencies which are formed samely as Bitcoin, although has little variations  with regards to their coding. </p>
 
-• Miners
+<p><strong>Miners</strong></p>
 
 <p>A group or an individual who utilizes their own resources (PC, space, electricity) in order to mine the digital coins. </p>
 
 <p>Also referred to a specialized PC created particularly in order to look for new coins by solving a series of mathematical problems. </p>
 
-• Wallet: it is where you keep your digital money which is a little file on your PC.
+<p><strong>Wallet:</strong> it is where you keep your digital money which is a little file on your PC.</p>
 
 <p>Defining the system of cryptocurrency in a nutshell:</p>
 
